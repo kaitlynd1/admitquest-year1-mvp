@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f0f8;
+  padding: 2rem;
+}
+
+input, select {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 1rem;
+}
